@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olitha Samaraweera</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="[[https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F874402083903433093%2F&psig=AOvVaw3U2XC6ucLZc9MfntOv5LAU&ust=1742218017657000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjM6YPajowDFQAAAAAdAAAAABAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olithasam&label=Profile%20views&color=0e75b6&style=flat" alt="olithasam" /> </p>
 

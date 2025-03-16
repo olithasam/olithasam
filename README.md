@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olitha Samaraweera</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F874402083903433093%2F&psig=AOvVaw3U2XC6ucLZc9MfntOv5LAU&ust=1742218017657000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjM6YPajowDFQAAAAAdAAAAABAQ](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olithasam&label=Profile%20views&color=0e75b6&style=flat" alt="olithasam" /> </p>
 
